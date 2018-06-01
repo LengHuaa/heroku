@@ -2,9 +2,9 @@
   "name": "translate-bot",
   "version": "4.0.0",
   "description": "Translates messages to tons of different languages",
-  "main": "node app.js",
+  "main": "node bot.js",
   "scripts": {
-    "run": "node app.js"
+    "run": "node bot.js"
   },
   "repository": {
     "type": "git",
